@@ -54,7 +54,7 @@ main{
 	width: 244px;
 	height: auto;
 	background-color: #fff; 
-	margin-top:18%;
+	margin-top:24%;
 	margin-left:-66%;
     border-radius: 22px;
 }
@@ -315,18 +315,18 @@ article p{
     }
 
     main{
-        max-width:45%;
+        max-width:50%;
         margin-left: 7rem;
     }
 
     .mobile{
-	margin-left: 5rem;
+	margin-left: 6rem;
 	z-index: 1;
 	margin-top:75px;
 }
     article{
         margin-left:auto;
-         max-width:35%; 
+         max-width:30%; 
 		margin-top:15%;
 		transform:translateX(125px);
     }
@@ -349,6 +349,7 @@ article p{
 	border-bottom-right-radius: 176px;
 	position: absolute;
 	left: 0;
+	padding-right:100px;
 }
 
 .attribution{
