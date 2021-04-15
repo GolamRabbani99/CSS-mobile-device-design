@@ -322,6 +322,7 @@ article p{
     .mobile{
 	margin-left: 5rem;
 	z-index: 1;
+	margin-top:75px;
 }
     article{
         margin-left:auto;
@@ -344,8 +345,8 @@ article p{
 	width: 230px;
 	/* height: 384px; */
 	background-color: #f9f4fa;
-	border-bottom-left-radius: 74px;
-	border-bottom-right-radius: 150px;
+	/* border-bottom-left-radius: 74px; */
+	border-bottom-right-radius: 176px;
 	position: absolute;
 	left: 0;
 }
